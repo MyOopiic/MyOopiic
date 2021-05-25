@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MyOopiic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MyOopiic/MyOopiic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 style='text-align: center; font-family: verdana;
+    color: powderblue;'>ALL ABOUT MYOOPIIC </h1>
+<p style='text-align:center; font-family: courier;'> Hello their, am not don't know much <br>
+    but am currently learning <br>
+    By the end of this year i might start posting projects<br>
+    So well thanks for reading this<br>
+    <sub> Goodbye </sub></p>
